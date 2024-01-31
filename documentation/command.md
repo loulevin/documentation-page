@@ -12,3 +12,5 @@ npm i -D express
     npm i -D @types/express
 
 npm i -D lowdb
+
+git init -b dev
