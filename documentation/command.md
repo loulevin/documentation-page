@@ -14,3 +14,8 @@ npm i -D express
 npm i -D lowdb
 
 git init -b dev
+
+## github
+git add .
+git commit -m "first commit"
+git push
